@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there! 👋 Welcome to my GitHub!
 
-<!--
-**TheodorTomas/theodortomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Tómas Theodórsson**, a **Lead Software Engineer** with **almost 10 years of experience** 🖥️. I specialize in crafting scalable, modern applications with **JavaScript, React, and Next.js** ⚡. Through my agency, **TTC Three Tech Consulting LTD**, I’ve worked with **medium and large clients** to deliver impactful software solutions 💼. I’m also the proud creator of **Startup Starter Kits (SSK)** 🚀—a toolkit that helps developers build and launch applications faster.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Love
+- **Frontend:** React, Next.js, Tailwind CSS ✨
+- **Backend:** Node.js, Prisma, PostGreSQL 🔒
+- **DevOps:** Vercel, Nx, GitHub Actions ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let’s Connect!
+- 🌐 [My Website](https://theodortomas.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/theodortomas)
+- 🔗 [Threads](https://threads.net/@theodortomas)
+- 💼 [Three Tech Consulting](https://threetech.consulting)
+- 🌐 [SSK](https://startupstarterkits.com)
