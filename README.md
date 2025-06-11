@@ -14,8 +14,3 @@ Lead Software Engineer with **~10 years** of full-stack experience. I love build
 | **Frontend**| React, Next.js, Tailwind CSS    |
 | **Backend** | Node.js, Prisma, **PostgreSQL** |
 | **Dev & Ops**| Vercel, Nx, GitHub Actions     |
-
-### 📫 Find me
-- 🌐 [Website](https://theodortomas.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/theodortomas)  
-- 🐦 [Twitter / X](https://twitter.com/TheodorTomas)  
