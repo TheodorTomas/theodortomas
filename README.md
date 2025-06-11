@@ -1,15 +1,21 @@
-# Hey there! 👋 Welcome to my GitHub!
+# Hi, I’m **Tómas** 👋
 
-I'm **Tómas**, a **Lead Software Engineer** with **almost 10 years of experience** 🖥️. I specialize in crafting scalable, modern applications with **JavaScript, React, and Next.js** ⚡. Through my agency, **Three Tech Consulting**, I’ve worked with **medium and large clients** to deliver impactful software solutions 💼. I’m also the proud creator of **Startup Starter Kits (SSK)** 🚀—a toolkit that helps developers build and launch applications faster.
+Lead Software Engineer with **~10 years** of full-stack experience. I love building fast, scalable web apps—and helping others do the same.
 
-## 🛠️ Technologies I Love
-- **Frontend:** React, Next.js, Tailwind CSS ✨
-- **Backend:** Node.js, Prisma, PostGreSQL 🔒
-- **DevOps:** Vercel, Nx, GitHub Actions ⚙️
+### What I’m working on
+- **[Startup Starter Kits](https://startupstarterkits.com)** — a toolkit to spin up SaaS projects faster  
+- **[TwoCents.design](https://twocents.design)** — AI-powered landing-page feedback  
+- Consulting through **[Three Tech Consulting](https://threetech.consulting)**  
+- Occasional blog posts & experiments at **[theodortomas.com](https://theodortomas.com)**  
 
-## 📫 Let’s Connect!
-- 🌐 [My Website](https://theodortomas.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/theodortomas)
-- 🔗 [Threads](https://threads.net/@theodortomas)
-- 💼 [Three Tech Consulting](https://threetech.consulting)
-- 🌐 [SSK](https://startupstarterkits.com)
+### 🛠️ Stack I reach for
+| Area        | Tools                           |
+|-------------|---------------------------------|
+| **Frontend**| React, Next.js, Tailwind CSS    |
+| **Backend** | Node.js, Prisma, **PostgreSQL** |
+| **Dev & Ops**| Vercel, Nx, GitHub Actions     |
+
+### 📫 Find me
+- 🌐 [Website](https://theodortomas.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/theodortomas)  
+- 🐦 [Twitter / X](https://twitter.com/TheodorTomas)  
