@@ -1,6 +1,6 @@
 # Hi, I’m **Tómas** 👋
 
-Lead Software Engineer with **~10 years** of full-stack experience. I love building fast, scalable web apps—and helping others do the same.
+Lead Software Engineer with over **10 years** of full-stack experience. I love building fast, scalable web apps—and helping others do the same.
 
 ### What I’m working on
 - **[Startup Starter Kits](https://startupstarterkits.com)** — a toolkit to spin up SaaS projects faster  
