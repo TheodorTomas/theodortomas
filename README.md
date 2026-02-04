@@ -4,7 +4,6 @@ Full Stack Software Engineer with over **10 years** experience. I love building 
 
 ### What I’m working on
 - **[Startup Starter Kits](https://startupstarterkits.com)** — a toolkit to spin up SaaS projects faster  
-- **[TwoCents.design](https://twocents.design)** — AI-powered landing-page feedback  
 - Consulting through **[Three Tech Consulting](https://threetech.consulting)**  
 - Occasional blog posts & experiments at **[theodortomas.com](https://theodortomas.com)**  
 
